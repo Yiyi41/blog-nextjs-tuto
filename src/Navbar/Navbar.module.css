@@ -1,0 +1,13 @@
+.navBarContainer {
+    display: flex;
+    justify-content: center;
+    background-color: lightcyan;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.navBarContainer a{
+    margin:0 10px;
+    text-decoration: none;
+    color: black;
+}

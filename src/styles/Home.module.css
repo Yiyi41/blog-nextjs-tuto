@@ -7,6 +7,25 @@
   min-height: 100vh;
 }
 
+.container{
+  display: flex;
+  width: 70%;
+  margin: 0 auto;
+}
+
+.userContainer{
+  width: 60%;
+  margin:0 auto;
+}
+
+.cardsContainer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    gap: 10px;
+
+}
+
 .description {
   display: inherit;
   justify-content: inherit;
